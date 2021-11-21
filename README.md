@@ -1,13 +1,9 @@
-**Important update 2021**
+**HDAdminV2 Fork**
+In the past I have created Forks of HDAdmin hoping to imrpove it's API. I have a modified version of HD with various bug fixes, I thought I would create a fork to better document it. The below content was originally created by ForeverHD.
+Since Nanoblox's announcement I can't find any activity/updates from HD Admin or Nanoblox, which is why I created this.
 
-This repository does not reflect the latest code from HD Admin, you can find that instead at the [MainModule](https://www.roblox.com/library/3239236979/HD-Admin-V2-MainModule). 
-
-HD Admin was a passion project I began working on all the way back in 2016, almost 5 years ago now. It’s been overwhelming to see the positive reception and uptake of the application, however to say it was outdated would be a slight understatement.
-
-While I still provide regular bug-fixes/patches for HD Admin, you may have noticed we haven’t added new features or commands for a few years now. This is because over the last 2 years we’ve been working towards a new administration system to release 2021 - Nanoblox. You can follow our progress at [github.com/nanoblox](https://github.com/nanoblox).
-
-~ Ben (ForeverHD)
-
+HDAdminV2 Fork Loader: [An introduction to HD Admin](https://www.roblox.com/library/8065965497/HD-Admin-Fork)
+The Main Module: [An introduction to HD Admin](https://www.roblox.com/library/8065967294/HD-Admin-Fork-MainModule)
 --------------------
 
 <div align="center">
