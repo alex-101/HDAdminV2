@@ -6,6 +6,9 @@ Since Nanoblox's announcement I can't find any activity/updates from HD Admin or
 
 [HDAdminV2 Fork MainModule](https://www.roblox.com/library/8065967294/HD-Admin-Fork-MainModule)
 
+
+See the changelog for accurate documentation of the changes from HD to HD Fork.
+
 --------------------
 
 <div align="center">
